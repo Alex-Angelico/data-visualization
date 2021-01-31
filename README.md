@@ -44,4 +44,5 @@ For Seaborn planets data visualization, open ```viz-b.ipynb```
 
 ## Change Log
 
+1.0: *Datasets analysed and visualized* - 30 Jan 2021
 0.1: *Dataset selected and described* - 28 Jan 2021
