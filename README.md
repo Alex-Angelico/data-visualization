@@ -36,7 +36,7 @@ Navigate to location of cloned repository.
 
 Double click on ```data-visualization``` directory.
 
-For NASA meteorite landings data visualization, open ```viz-a.ipynb```
+For US Car Auctions data visualization, open ```viz-a.ipynb```
 
 For Seaborn planets data visualization, open ```viz-b.ipynb```
 
@@ -44,5 +44,5 @@ For Seaborn planets data visualization, open ```viz-b.ipynb```
 
 ## Change Log
 
-.: ** - 26 Jan 2021
-# data-visualization
+1.0: *Datasets analysed and visualized* - 30 Jan 2021
+0.1: *Dataset selected and described* - 28 Jan 2021
